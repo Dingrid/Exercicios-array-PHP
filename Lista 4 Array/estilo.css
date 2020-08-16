@@ -1,0 +1,67 @@
+@charset="UTF-8";
+form{ 
+width: 500px;
+margin: auto;
+font-family: sans-serif;
+font-weight:normal;
+font-size: 16 pt;
+background-color:  #5143F0;
+position: center;
+}
+
+p
+{
+color:white;
+position: center;	
+font-size: 20 pt;	
+}
+
+th { 
+	color: white;
+	 text-align: center;
+	 font-size: 20;
+	 
+	 }
+	 
+td {
+      color: white;
+	  text-align: center;
+	  }
+
+input, textarea, select, label{
+font-family: sans-serif;
+font-weight:normal;
+font-size: 13 pt;
+position: center;
+}
+
+
+legend {
+Font-family: sans-serif;
+font-weight: bold;
+font-size: 20 pt;
+color: white;
+}
+
+
+fieldset {
+border-color: #ABA3FB;
+margin: 20px;
+border-style: dashed;
+color: white;
+background-color:#1003A2;
+position: center;
+
+}
+
+
+body
+{
+background-image: url(fl.jpg);
+}
+
+h3
+{
+color: black;
+font-family: sans-serif;
+}
